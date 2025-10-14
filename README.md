@@ -1,7 +1,8 @@
-## Hi there 👋
+## 당연함 뒤에서 묵묵히 설계와 해답을 만들어내는 개발자 정종현
 
+[![JacobLinCool's LeetCode Stats](https://leetcard.jacoblin.cool/jeongjonghyun)](https://leetcode.com/jeongjonghyun)
 <!--
-**JJHyunDev/JJHyunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
