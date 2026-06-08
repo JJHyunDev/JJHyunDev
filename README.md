@@ -1,4 +1,4 @@
-## 설계와 해답을 만들어내는 개발자 정종현 
+## 해답을 만들어내는 개발자 정종현 
 
 [![JacobLinCool's LeetCode Stats](https://leetcard.jacoblin.cool/jeongjonghyun)](https://leetcode.com/jeongjonghyun)
 
